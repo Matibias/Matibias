@@ -11,15 +11,15 @@ const matibias = {
    pronouns: "he" | "him",
    code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java"],
    technologies: {
-      frontEnd: ["React","Bootstrap"],
-      backEnd: ["Django"],
+      frontEnd: ["React", "Bootstrap", "Tailwind"],
+      backEnd: ["Node", "Django"],
       mobile: ["React Native", "ionic"],
-      databases: ["Oracle", "SQLite"],
+      databases: ["Oracle", "SQLite", "MongoDB"],
       tools: ["GIT", "Redux"],
       misc: ["Jest", "RTL", "Selenium", "Firebase"]
    },
-   architecture: ["SPA", "MVC", "microservices"],
-   currentOccupation: ["last year student, frontEnd developer"],
-   learning: ["Node", "Next"],
+   architecture: ["SPA", "MVC", "microservices", "Clean Arquitecture"],
+   currentOccupation: ["frontEnd developer"],
+   learning: ["Node", "Dart", "Flutter"],
 };
 ```
