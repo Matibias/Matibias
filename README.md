@@ -6,20 +6,3 @@ You can click the Preview link to take a look at your changes.
 
 ### A passionate developer from Chile
 
-```javascript
-const matibias = {
-   pronouns: "he" | "him",
-   code: ["Javascript", "Typescript", "HTML", "CSS", "Python", "Java"],
-   technologies: {
-      frontEnd: ["React", "Bootstrap", "Tailwind"],
-      backEnd: ["Node", "Django"],
-      mobile: ["React Native", "ionic"],
-      databases: ["Oracle", "SQLite", "MongoDB"],
-      tools: ["GIT", "Redux"],
-      misc: ["Jest", "RTL", "Selenium", "Firebase"]
-   },
-   architecture: ["SPA", "MVC", "microservices", "Clean Arquitecture"],
-   currentOccupation: ["frontEnd developer"],
-   learning: ["Node", "Dart", "Flutter"],
-};
-```
